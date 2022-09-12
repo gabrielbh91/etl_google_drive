@@ -1,0 +1,10 @@
+version: 1
+
+destination_repository: 'Local'
+
+local:
+  repository_path: ''
+
+database:
+  credentials: "postgres:postgres@localhost"
+  
